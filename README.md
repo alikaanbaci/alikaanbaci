@@ -9,9 +9,13 @@ Software Engineer,
 ⚡ Learning something new
 
 ### Tech Stack
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" />
+Solarized dark             |  Solarized Ocean 
+:-------------------------:|:-------------------------:
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/java.svg" />   |  
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> |
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
+
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spring.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" />
 <!--
