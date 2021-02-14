@@ -1,6 +1,14 @@
-### Hi there 👋
+### Ali Kaan Bacı 👋
 
-🔭 I’m currently working on Java, Python, Javascript
+Software Engineer, 
+
+🔭 Working on full stack web development
+
+🌱 Curious about design & development of large scale systems
+
+⚡ Learning something new
+
+## Tech Stack
 
 <!--
 **alikaanbaci/alikaanbaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
