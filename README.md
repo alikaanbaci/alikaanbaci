@@ -9,7 +9,8 @@ Software Engineer,
 ⚡ Learning something new
 
 ## Tech Stack
-<img src="https://simpleicons.org/icons/java.svg"/>
+![Example](https://simpleicons.org/icons/java.svg)
+
 <!--
 **alikaanbaci/alikaanbaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
