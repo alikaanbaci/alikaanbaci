@@ -15,9 +15,10 @@ Solarized dark             |  Solarized Ocean
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/javascript.svg" /> |
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
 
-
+<p float="left">
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/spring.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/angular.svg" />  
+</p>
 <!--
 **alikaanbaci/alikaanbaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
