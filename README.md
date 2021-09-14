@@ -1,4 +1,4 @@
-[Greedy Algorithms]( ./coding_solutions/greed )
+[Greedy Algorithms]( ./coding_solutions/greedy )
 
 This repository consist of several topics 
 
