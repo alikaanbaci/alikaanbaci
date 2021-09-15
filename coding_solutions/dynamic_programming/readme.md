@@ -31,7 +31,7 @@ public class Fibonacci {
     private n;
     
     Fibonacci(int n) {
-        this.dp = new int[n];
+        this.dp = new int[n+1];
         this.n = n;
     }
     
