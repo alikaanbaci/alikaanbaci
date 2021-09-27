@@ -1,13 +1,3 @@
-[Greedy Algorithms]( ./coding_solutions/greedy )
-
-This repository consist of several topics 
-
-- Coding solution approaches
-- System design examples
-- Software design pattern notes
-- Several coding challenge solutions
-
-
 
 ### Ali Kaan Bacı 👋
 
